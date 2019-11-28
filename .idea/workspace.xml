@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c510943d-bd4d-42da-a937-1485e3cabf31" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1UFxopvURucNRGDdWlyyba8Wx0M" />
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/doc" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c510943d-bd4d-42da-a937-1485e3cabf31" name="Default Changelist" comment="" />
+      <created>1574966321868</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574966321868</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="477" y="259" key="com.intellij.ide.util.TipDialog" timestamp="1574966326426">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="477" y="259" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1574966326426" />
+    <state x="209" y="58" key="new project wizard" timestamp="1574966424753">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="209" y="58" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1574966424753" />
+    <state x="431" y="185" key="search.everywhere.popup" timestamp="1574966384723">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="185" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1574966384723" />
+  </component>
+</project>
